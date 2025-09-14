@@ -2,6 +2,10 @@
 
 A medical tutorial processing application that converts clinical tutorial recordings into engaging podcast-style audio summaries using AI.
 
+## ⚠️ IMPORTANT: Medical Content Disclaimer
+
+**For Educational Use Only** - This application is designed solely for processing educational medical content. **DO NOT** use with patient-identifiable information or protected health information (PHI). All AI-generated outputs must be reviewed by qualified medical professionals for accuracy before use.
+
 ## Features
 
 - 🎵 **Audio Processing**: Upload clinical tutorial recordings (MP3, WAV, M4A, MP4, OGG)
@@ -105,6 +109,43 @@ The application supports extensive configuration via environment variables. See 
 
 This is a medical education tool designed to help healthcare professionals create engaging content. Contributions focused on improving medical terminology handling, accessibility, and educational effectiveness are welcome.
 
+## ⚠️ Important Disclaimers
+
+### Patient Data Protection
+**DO NOT use this application with any patient-identifiable content or protected health information (PHI).** This application is designed for educational content processing only and should never be used with:
+- Patient records, case studies with identifying information
+- Confidential medical data or PHI
+- Any content that could compromise patient privacy
+
+### Content Accuracy
+**All generated outputs must be reviewed for accuracy and errors.** This application uses AI technology which may:
+- Generate inaccurate medical information
+- Miss important clinical details
+- Introduce errors or hallucinations
+- Require professional medical review before use
+
+Users are responsible for verifying all generated content for medical accuracy and appropriateness.
+
 ## License
 
-[Add your license here]
+MIT License
+
+Copyright (c) 2024 
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
