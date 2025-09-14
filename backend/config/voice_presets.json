@@ -1,0 +1,26 @@
+{
+  "professional_educational": {
+    "speaking_rate": 0.9,
+    "pitch": 0.0,
+    "medical_terminology_mode": true,
+    "description": "Clear, professional tone for educational content"
+  },
+  "conversational": {
+    "speaking_rate": 1.0,
+    "pitch": 1.0,
+    "medical_terminology_mode": true,
+    "description": "Natural conversational pace with medical accuracy"
+  },
+  "slow_detailed": {
+    "speaking_rate": 0.8,
+    "pitch": -0.5,
+    "medical_terminology_mode": true,
+    "description": "Slower pace for complex medical concepts"
+  },
+  "quick_review": {
+    "speaking_rate": 1.1,
+    "pitch": 0.5,
+    "medical_terminology_mode": true,
+    "description": "Faster pace for review and summary content"
+  }
+}

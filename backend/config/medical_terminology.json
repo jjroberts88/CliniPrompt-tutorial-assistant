@@ -1,0 +1,38 @@
+{
+  "pronunciations": {
+    "myocardial": "ˌmaɪoʊˈkɑrdiəl",
+    "cardiovascular": "ˌkɑrdioʊˈvæskjələr",
+    "hypertension": "ˌhaɪpərˈtɛnʃən",
+    "auscultation": "ˌɔskəlˈteɪʃən",
+    "bradycardia": "ˌbrædɪˈkɑrdiə",
+    "tachycardia": "ˌtækɪˈkɑrdiə",
+    "stethoscope": "ˈstɛθəˌskoʊp",
+    "sphygmomanometer": "ˌsfɪgmoʊməˈnɑmɪtər",
+    "electrocardiogram": "ɪˌlɛktroʊˈkɑrdioʊˌgræm",
+    "echocardiography": "ˌɛkoʊˌkɑrdiˈɑgrəfi",
+    "pneumonia": "nʊˈmoʊnjə",
+    "bronchoscopy": "ˈbrɑŋkəˌskoʊpi",
+    "endocrinology": "ˌɛndoʊkrɪˈnɑlədʒi",
+    "pathophysiology": "ˌpæθoʊˌfɪziˈɑlədʒi"
+  },
+  "emphasis_terms": [
+    "diagnosis",
+    "treatment", 
+    "prognosis",
+    "etiology",
+    "pathogenesis",
+    "therapeutic",
+    "contraindication",
+    "adverse effects",
+    "differential diagnosis",
+    "clinical presentation"
+  ],
+  "pause_after_terms": [
+    "complex procedures",
+    "differential diagnoses", 
+    "contraindications",
+    "serious adverse effects",
+    "emergency interventions",
+    "critical care protocols"
+  ]
+}
